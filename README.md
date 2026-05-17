@@ -15,9 +15,8 @@
 ![alt text](images/BeautyPlus-IMAGE-ENHANCER-1778943697131.jpg)
 
 # video demo
-<a href="https://www.youtube.com/watch?v=KUflqZ_CRsY">
-  <img src="images/thumbnail.jpg" width="600" alt="Demo Video Thumbnail">
-</a>
+https://www.youtube.com/watch?v=KUflqZ_CRsY
+
 ## Yêu cầu
 
 - Python 3.10
