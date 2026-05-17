@@ -1,0 +1,56 @@
+[
+  {
+    "question": "AI Agent là gì?",
+    "answer": " AI Agent là một hệ thống phần mềm có khả năng tự động lập kế hoạch và thực hiện chuỗi hành động để hoàn thành mục tiêu, trong đó các tác vụ được thực hiện bằng mã Python.",
+    "num_chunks": 5,
+    "status": "success"
+  },
+  {
+    "question": "smolagents là gì?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "ReAct là gì?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "Các thành phần chính của một agent trong smolagents là gì?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "CodeAgent khác gì với ToolCallingAgent?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "Có những cách nào để tạo custom tool trong smolagents?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "Tool trong smolagents cần có những metadata gì?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "Bài toán trong tài liệu muốn xây dựng agent để làm gì?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  },
+  {
+    "question": "Model nào được dùng để tóm tắt tin tức tiếng Việt?",
+    "answer": null,
+    "num_chunks": 0,
+    "status": "error"
+  }
+]
